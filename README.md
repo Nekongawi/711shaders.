@@ -11,6 +11,7 @@ I played on Pojavlauncher; Minecraft Java Mobile This shader also works on your 
 
 Minecraft Version
 1.11.2 Optifne
+Pojavlauncher Vera-FireFly Zink (Driver 23.0.0 Devel)
 
 Spesfications
 • Realme c31
