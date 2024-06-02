@@ -1,7 +1,23 @@
 # 711shaders.
 low - mid spec shader with a beautiful sky at dusk *still in the fixed stage and adding good visuals. Still in development stage 
 
+sky Sacatter.by Robobbo1221 (Shadertoy)
+
+• End Portal Galaxy/Round Moon (Big) (Added From Iteration T 3.0.0.zip
+
+SkyLex ( Caustic* Still errors and bugs)
+
 I played on Pojavlauncher; Minecraft Java Mobile This shader also works on your PC or laptop because it's still early so there are still many bugs that appear, such as caustic rendering errors and many more.
+
+Minecraft Version
+1.11.2 Optifne
+
+Spesfications
+• Realme c31
+Ram 3/Rom 32 GB
+Android 11
+Mali G57
+Arm UnisocT600+
 
 ![Screenshot_20240602-214822](https://github.com/Nekongawi/711shaders./assets/170410423/5861ad12-8f5e-4d5e-ab8b-1e97b01743b3)
 ![Screenshot_20240601-201934](https://github.com/Nekongawi/711shaders./assets/170410423/7ab73c86-b68a-42d1-b04a-d535ab4bc421)
